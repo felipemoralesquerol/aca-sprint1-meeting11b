@@ -1,0 +1,11 @@
+{
+  "name": "aca-sprint1-meeting11b",
+  "version": "1.0.0",
+  "description": "Ejemplo básico de server web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Morales",
+  "license": "ISC"
+}
